@@ -1,4 +1,4 @@
-# smi-int
+# Dashboard Test
 
 ## Project setup
 ```
